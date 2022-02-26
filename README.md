@@ -2,7 +2,7 @@
 
 ### This is a fork and a subtree of [Mastering Bitcoin](https://bitcoinbook.info) by _Andreas M. Antonopoulos_ available on GitHub for free -> [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 
-### This fork offers an HTML render of the AsciiDoc files available at [serafdossantos.github.io/masteringbitcoinbook](https://serafdossantos.github.io/masteringbitcoinbook)
+### This fork offers an HTML render of the AsciiDoc files available at [serafdossantos.github.io/MasteringBitcoinBook/](https://serafdossantos.github.io/MasteringBitcoinBook/)
 
 ---
 
