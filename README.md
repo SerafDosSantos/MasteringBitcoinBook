@@ -1,3 +1,11 @@
+---
+
+### This is a fork and a subtree of [Mastering Bitcoin](https://bitcoinbook.info) by _Andreas M. Antonopoulos_ available on GitHub for free -> [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+
+### This fork offers an HTML render of the AsciiDoc files available at [serafdossantos.github.io/masteringbitcoinbook/](serafdossantos.github.io/masteringbitcoinbook/)
+
+---
+
 # Mastering Bitcoin
 
 Mastering Bitcoin is a book for developers, but the first two chapters cover bitcoin at a level that is approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters and get a great understanding of bitcoin. 
