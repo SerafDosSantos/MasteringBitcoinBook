@@ -1,6 +1,6 @@
 ---
 
-### This is a fork and a subtree of [Mastering Bitcoin](https://bitcoinbook.info) by _Andreas M. Antonopoulos_ available on GitHub for free -> [https://github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
+### This is a fork and a subtree of [Mastering Bitcoin](https://bitcoinbook.info) by _Andreas M. Antonopoulos_ available on GitHub for free -> [github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 
 ### This fork offers an HTML render of the AsciiDoc files available at [maitriser-ca.github.io/MasteringBitcoinBook/](https://maitriser-ca.github.io/MasteringBitcoinBook/)
 
