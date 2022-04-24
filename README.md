@@ -12,6 +12,29 @@ Mastering Bitcoin is a book for developers, but the first two chapters cover bit
 
 This repository contains the complete [first edition](https://github.com/bitcoinbook/bitcoinbook/tree/first_edition) and the draft of the [second edition](https://github.com/bitcoinbook/bitcoinbook/tree/develop), currently in progress, scheduled for publication in Q1'2017. 
 
+<li><a href="preface.html">Preface</a></li>
+<li><a href="glossary.html">Quick Glossary</a></li>
+<li><a href="ch01.html">01. Introduction</a></li>
+<li><a href="ch02.html">02. How Bitcoin Works</a></li>
+<li><a href="ch03.html">03. Bitcoin Core: The Reference Implementation</a></li>
+<li><a href="ch04.html">04. Keys, Addresses</a></li>
+<li><a href="ch05.html">05. Wallets</a></li>
+<li><a href="ch06.html">06. Transactions</a></li>
+<li><a href="ch07.html">07. Advanced Transactions and Scripting</a></li>
+<li><a href="ch08.html">08. The Bitcoin Network</a></li>
+<li><a href="ch09.html">09. The Blockchain</a></li>
+<li><a href="ch10.html">10. Mining and Consensus</a></li>
+<li><a href="ch11.html">11. Bitcoin Security</a></li>
+<li><a href="ch12.html">12. Blockchain Applications</a></li>
+<li><a href="appdx-bitcoinwhitepaper.html">Appendix A: The Bitcoin Whitepaper by Satoshi Nakamoto</a></li>
+<li><a href="appdx-scriptops.html">Appendix B: Transaction Script Language Operators, Constants, and Symbols</a></li>
+<li><a href="appdx-bips.html">Appendix C: Bitcoin Improvement Proposals</a></li>
+<li><a href="appdx-segwit.html">Appendix D: Segregated Witness</a></li>
+<li><a href="appdx-bitcore.html">Appendix E: Bitcore</a></li>
+<li><a href="appdx-pycoin.html">Appendix F: pycoin, ku, and tx</a></li>
+<li><a href="appdx-bx.html">Appendix G: Bitcoin Explorer (bx) Commands</a></li>
+</ul>
+
 # Issues, Errors, Comments, Contributions
 
 If you know how to make a pull request to contribute a fix, please write the correction and use a pull request to submit it for consideration. Otherwise, please submit an issue, explaining the error or comment. If you would like to contribute extensive changes or new material, please coordinate with the author first. Contact forms can be found on his website https://antonopoulos.com/
@@ -50,3 +73,54 @@ It is expected that the second edition will be released under a CC-BY-SA license
 
 If you are interested in translating this book, please join a team of volunteers at https://www.transifex.com/bitcoinbook/mastering-bitcoin/
 Free copies of "Mastering Bitcoin Open Edition", translated in many languages, can be downloaded from https://bitcoinbook.info
+
+---
+
+    <body>
+        <div id="content">
+            <div class="sectionbody">
+                <h1>Mastering Bitcoin</h1>
+                <p>
+                    <img src="images/cover.png" width="25%" />
+                </p>
+                <p>
+                    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Mastering Bitcoin - First Edition</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://antonopoulos.com/" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+                </p>
+                <p>
+                    This "Free Culture" compliant license was approved by my publisher O'Reilly Media (http://oreilly.com), who understand the value of open source. O'Reilly Media is not just the world's best publisher of technical books but also a strong supporter of an open culture and the sharing of knowledge. 
+                </p>
+                <p>
+                    Thank you O'Reilly Media!
+                </p>
+                <p>
+                    Based on a work at <a href="https://github.com/bitcoinbook/bitcoinbook">https://github.com/bitcoinbook/bitcoinbook</a>.
+                </p>
+                <ul>
+                    <li><a href="preface.html">Preface</a></li>
+                    <li><a href="glossary.html">Quick Glossary</a></li>
+                    <li><a href="ch01.html">01. Introduction</a></li>
+                    <li><a href="ch02.html">02. How Bitcoin Works</a></li>
+                    <li><a href="ch03.html">03. Bitcoin Core: The Reference Implementation</a></li>
+                    <li><a href="ch04.html">04. Keys, Addresses</a></li>
+                    <li><a href="ch05.html">05. Wallets</a></li>
+                    <li><a href="ch06.html">06. Transactions</a></li>
+                    <li><a href="ch07.html">07. Advanced Transactions and Scripting</a></li>
+                    <li><a href="ch08.html">08. The Bitcoin Network</a></li>
+                    <li><a href="ch09.html">09. The Blockchain</a></li>
+                    <li><a href="ch10.html">10. Mining and Consensus</a></li>
+                    <li><a href="ch11.html">11. Bitcoin Security</a></li>
+                    <li><a href="ch12.html">12. Blockchain Applications</a></li>
+                    <li><a href="appdx-bitcoinwhitepaper.html">Appendix A: The Bitcoin Whitepaper by Satoshi Nakamoto</a></li>
+                    <li><a href="appdx-scriptops.html">Appendix B: Transaction Script Language Operators, Constants, and Symbols</a></li>
+                    <li><a href="appdx-bips.html">Appendix C: Bitcoin Improvement Proposals</a></li>
+                    <li><a href="appdx-segwit.html">Appendix D: Segregated Witness</a></li>
+                    <li><a href="appdx-bitcore.html">Appendix E: Bitcore</a></li>
+                    <li><a href="appdx-pycoin.html">Appendix F: pycoin, ku, and tx</a></li>
+                    <li><a href="appdx-bx.html">Appendix G: Bitcoin Explorer (bx) Commands</a></li>
+                </ul>
+                <p>
+                    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><br />
+                </p>
+            </div>
+        </div>
+    </body>
