@@ -1,4 +1,19 @@
----
+<style type="text/css">
+<!--
+img {
+    width: 25%;
+    float: left;
+    margin: 66px;
+
+}
+br.c3-break {
+    clear: left;
+}
+h1 {
+
+}
+-->
+</style>
 
 ### This is a fork and a subtree of [Mastering Bitcoin](https://bitcoinbook.info) by _Andreas M. Antonopoulos_ available on GitHub for free -> [github.com/bitcoinbook/bitcoinbook](https://github.com/bitcoinbook/bitcoinbook)
 
@@ -8,32 +23,37 @@
 
 # Mastering Bitcoin
 
+![Cover of the Mastering Bitcoin book](images/cover.png)
+
 Mastering Bitcoin is a book for developers, but the first two chapters cover bitcoin at a level that is approachable to non-programmers. Anyone with a basic understanding of technology can read the first two chapters and get a great understanding of bitcoin. 
+
+**Andreas M. Antonopoulos** is a noted technologist and serial entrepreneur who has become one of the most well-known and well-respected figures in bitcoin. As an engaging public speaker, teacher, and writer, Andreas makes complex subjects accessible and easy to understand. As an advisor, he helps startups recognize, evaluate, and navigate security and business risks.
 
 This repository contains the complete [first edition](https://github.com/bitcoinbook/bitcoinbook/tree/first_edition) and the draft of the [second edition](https://github.com/bitcoinbook/bitcoinbook/tree/develop), currently in progress, scheduled for publication in Q1'2017. 
 
-<li><a href="preface.html">Preface</a></li>
-<li><a href="glossary.html">Quick Glossary</a></li>
-<li><a href="ch01.html">01. Introduction</a></li>
-<li><a href="ch02.html">02. How Bitcoin Works</a></li>
-<li><a href="ch03.html">03. Bitcoin Core: The Reference Implementation</a></li>
-<li><a href="ch04.html">04. Keys, Addresses</a></li>
-<li><a href="ch05.html">05. Wallets</a></li>
-<li><a href="ch06.html">06. Transactions</a></li>
-<li><a href="ch07.html">07. Advanced Transactions and Scripting</a></li>
-<li><a href="ch08.html">08. The Bitcoin Network</a></li>
-<li><a href="ch09.html">09. The Blockchain</a></li>
-<li><a href="ch10.html">10. Mining and Consensus</a></li>
-<li><a href="ch11.html">11. Bitcoin Security</a></li>
-<li><a href="ch12.html">12. Blockchain Applications</a></li>
-<li><a href="appdx-bitcoinwhitepaper.html">Appendix A: The Bitcoin Whitepaper by Satoshi Nakamoto</a></li>
-<li><a href="appdx-scriptops.html">Appendix B: Transaction Script Language Operators, Constants, and Symbols</a></li>
-<li><a href="appdx-bips.html">Appendix C: Bitcoin Improvement Proposals</a></li>
-<li><a href="appdx-segwit.html">Appendix D: Segregated Witness</a></li>
-<li><a href="appdx-bitcore.html">Appendix E: Bitcore</a></li>
-<li><a href="appdx-pycoin.html">Appendix F: pycoin, ku, and tx</a></li>
-<li><a href="appdx-bx.html">Appendix G: Bitcoin Explorer (bx) Commands</a></li>
-</ul>
+<br class="c3-break" />
+
+* [Preface](preface.html)
+* [Quick Glossary](glossary.html)
+* [01. Introduction](ch01.html)
+* [02. How Bitcoin Works](ch02.html)
+* [03. Bitcoin Core: The Reference Implementation](ch03.html)
+* [04. Keys, Addresses](ch04.html)
+* [05. Wallets](ch05.html)
+* [06. Transactions](ch06.html)
+* [07. Advanced Transactions and Scripting](ch07.html)
+* [08. The Bitcoin Network](ch08.html)
+* [09. The Blockchain](ch09.html)
+* [10. Mining and Consensus](ch10.html)
+* [11. Bitcoin Security](ch11.html)
+* [12. Blockchain Applications](ch12.html)
+* [Appendix A: The Bitcoin Whitepaper by Satoshi Nakamoto](appdx-bitcoinwhitepaper.html)
+* [Appendix B: Transaction Script Language Operators, Constants, and Symbols](appdx-scriptops.html)
+* [Appendix C: Bitcoin Improvement Proposals](appdx-bips.html)
+* [Appendix D: Segregated Witness](appdx-segwit.html)
+* [Appendix E: Bitcore](appdx-bitcore.html)
+* [Appendix F: pycoin, ku, and tx](appdx-pycoin.html)
+* [Appendix G: Bitcoin Explorer (bx) Commands](appdx-bx.html)
 
 # Issues, Errors, Comments, Contributions
 
@@ -73,54 +93,3 @@ It is expected that the second edition will be released under a CC-BY-SA license
 
 If you are interested in translating this book, please join a team of volunteers at https://www.transifex.com/bitcoinbook/mastering-bitcoin/
 Free copies of "Mastering Bitcoin Open Edition", translated in many languages, can be downloaded from https://bitcoinbook.info
-
----
-
-    <body>
-        <div id="content">
-            <div class="sectionbody">
-                <h1>Mastering Bitcoin</h1>
-                <p>
-                    <img src="images/cover.png" width="25%" />
-                </p>
-                <p>
-                    <span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Mastering Bitcoin - First Edition</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://antonopoulos.com/" property="cc:attributionName" rel="cc:attributionURL">Andreas M. Antonopoulos LLC</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-                </p>
-                <p>
-                    This "Free Culture" compliant license was approved by my publisher O'Reilly Media (http://oreilly.com), who understand the value of open source. O'Reilly Media is not just the world's best publisher of technical books but also a strong supporter of an open culture and the sharing of knowledge. 
-                </p>
-                <p>
-                    Thank you O'Reilly Media!
-                </p>
-                <p>
-                    Based on a work at <a href="https://github.com/bitcoinbook/bitcoinbook">https://github.com/bitcoinbook/bitcoinbook</a>.
-                </p>
-                <ul>
-                    <li><a href="preface.html">Preface</a></li>
-                    <li><a href="glossary.html">Quick Glossary</a></li>
-                    <li><a href="ch01.html">01. Introduction</a></li>
-                    <li><a href="ch02.html">02. How Bitcoin Works</a></li>
-                    <li><a href="ch03.html">03. Bitcoin Core: The Reference Implementation</a></li>
-                    <li><a href="ch04.html">04. Keys, Addresses</a></li>
-                    <li><a href="ch05.html">05. Wallets</a></li>
-                    <li><a href="ch06.html">06. Transactions</a></li>
-                    <li><a href="ch07.html">07. Advanced Transactions and Scripting</a></li>
-                    <li><a href="ch08.html">08. The Bitcoin Network</a></li>
-                    <li><a href="ch09.html">09. The Blockchain</a></li>
-                    <li><a href="ch10.html">10. Mining and Consensus</a></li>
-                    <li><a href="ch11.html">11. Bitcoin Security</a></li>
-                    <li><a href="ch12.html">12. Blockchain Applications</a></li>
-                    <li><a href="appdx-bitcoinwhitepaper.html">Appendix A: The Bitcoin Whitepaper by Satoshi Nakamoto</a></li>
-                    <li><a href="appdx-scriptops.html">Appendix B: Transaction Script Language Operators, Constants, and Symbols</a></li>
-                    <li><a href="appdx-bips.html">Appendix C: Bitcoin Improvement Proposals</a></li>
-                    <li><a href="appdx-segwit.html">Appendix D: Segregated Witness</a></li>
-                    <li><a href="appdx-bitcore.html">Appendix E: Bitcore</a></li>
-                    <li><a href="appdx-pycoin.html">Appendix F: pycoin, ku, and tx</a></li>
-                    <li><a href="appdx-bx.html">Appendix G: Bitcoin Explorer (bx) Commands</a></li>
-                </ul>
-                <p>
-                    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><br />
-                </p>
-            </div>
-        </div>
-    </body>
